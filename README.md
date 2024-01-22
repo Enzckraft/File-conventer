@@ -5,11 +5,11 @@
 ### Done:
 
 *Has input and output folder.
-*No duplicates. After converting code it will know that its done even after restart.
-*Even if code will be turned off randomly it will start counting from number that he stopped.
-*You can basicly write every format of file. You can change output formats that will code convert. Ex. only pngs, only pdf, only jpg etc.
-*You can change format that you want to convert files. Ex. to jpg, to pdf, to png etc.
-*In .txt file that will be created automaticly there is a list of file/s that code did.
+No duplicates. After converting code it will know that its done even after restart.
+Even if code will be turned off randomly it will start counting from number that he stopped.
+You can basicly write every format of file. You can change output formats that will code convert. Ex. only pngs, only pdf, only jpg etc.
+You can change format that you want to convert files. Ex. to jpg, to pdf, to png etc.
+In .txt file that will be created automaticly there is a list of file/s that code did.
 
 ### In progress:
 
