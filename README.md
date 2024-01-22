@@ -1,4 +1,4 @@
-# PYTHON PNG CONVENTER
+# PYTHON FILE CONVENTER
 
 ## Features of code:
 
