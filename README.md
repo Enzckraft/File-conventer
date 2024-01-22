@@ -13,8 +13,8 @@
 
 ### In progress:
 
-Code can compare visualy images to make sure it will not make duplicates. You can change % images similarity.
-It will detect changes after delete from output and it will convert missing file/s from input to output folder.
-After file/s will be added to input it will convert only new file/s without duplicating.
-Numbering system can be disabled/enabled.
+* Code can compare visualy images to make sure it will not make duplicates. You can change % images similarity.
+* It will detect changes after delete from output and it will convert missing file/s from input to output folder.
+* After file/s will be added to input it will convert only new file/s without duplicating.
+* Numbering system can be disabled/enabled.
 
